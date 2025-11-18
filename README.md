@@ -8,5 +8,4 @@ HTML, CSS, JavaScript & React used
 
 <h2> Gif </h2>
 
-
-![Meme generator](https://github.com/user-attachments/assets/6cb2ee89-8268-43e2-9fa2-89c75a424cab)
+![Quizzical](https://github.com/user-attachments/assets/fe502d44-3c09-46ec-b382-0a2e0fa2643c)
