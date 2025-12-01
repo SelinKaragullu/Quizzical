@@ -1,6 +1,7 @@
 <h1> Quizzical </h1>
 
 Trivial Quiz game!
+LINK to the web app: https://trivia-quizzicalll.netlify.app/
 
 <h2> External usage </h2>
 
